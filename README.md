@@ -1,0 +1,2 @@
+# austsxk_picinformation
+这是一个为博客准备的图床工具
